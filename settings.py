@@ -13,7 +13,7 @@ dbport = 3306
 offset = 2
 #
 #config redis settings
-rhost = 127.0.0.1
+rhost = '127.0.0.1'
 #
 #
 

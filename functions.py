@@ -13,10 +13,10 @@ except MySQLdb.Error,e:
 cur = conn.cursor()
   
   
-"""
-cur.execute('SELECT * FROM em_list LIMIT 1 OFFSET 0') 
+
+cur.execute('SELECT * FROM em_list LIMIT 1 OFFSET 5') 
 result = cur.fetchone()
 print result
-"""    
+    
 
     
