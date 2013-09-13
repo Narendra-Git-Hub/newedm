@@ -5,7 +5,7 @@
 dbhost = 'localhost'
 dbuser = 'root'
 dbpasswd = ''
-dbname = 'ezem_test01'
+dbname = 'newedm'
 dbport = 3306
 #
 #
